@@ -123,6 +123,9 @@ body {
 .featured-content {
   height: 55vh;
   padding: 50px;
+  display: block;
+  margin-left: auto;
+  margin-right:auto;
 }
 
 .featured-title {
