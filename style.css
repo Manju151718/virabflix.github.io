@@ -127,6 +127,7 @@ body {
 
 .featured-title {
   width: 420px;
+  position: center;
 }
 
 .featured-desc {
