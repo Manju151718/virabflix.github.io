@@ -32,6 +32,15 @@ body {
   color: #4dbf00;
 }
 
+.search{
+  width:200px;
+  height:350px;
+  background-color:rgba(245,245,245,0.8);
+  display:flex;
+  justify content:center;
+  align-items:center;
+}
+
 .menu-container {
   flex: 6;
 }
