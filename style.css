@@ -17,7 +17,7 @@ body {
 .navbar-container {
   display: flex;
   align-items: center;
-  padding: 0 50px;
+  padding: 0 80px;
   height: 100%;
   color: white;
   font-family: "Sen", sans-serif;
