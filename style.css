@@ -37,9 +37,6 @@ body {
   height:350px;
   background-color:rgba(245,245,245,0.8);
   display:flex;
-  justify content:center;
-  align-items:center;
-  margin:0px 20px;
 }
 
 .menu-container {
