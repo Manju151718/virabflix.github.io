@@ -131,8 +131,8 @@ body {
 .featured-title {
   width: 480px;
   display: block;
-  margin-left: auto;
-  margin-right:auto;
+  margin-left: 160px;
+  margin-right:160px;
 }
 
 .featured-desc {
