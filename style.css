@@ -35,8 +35,8 @@ body {
 .search{
   width:200px;
   height:350px;
-  background-color:rgba(245,245,245,0.8);
   display:flex;
+  margin-right:0 30px;
 }
 
 .menu-container {
